@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myRansomware2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myRansomware2_jar</output-path>
+    <root id="archive" name="myRansomware2.jar">
+      <element id="module-output" name="myRansomware2" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/HackedByAbd RANSOMWARE/04. Start Programming your Ransomware/02. commons-io-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
